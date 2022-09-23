@@ -1,0 +1,33 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+header{
+    margin-bottom: 25px;
+}
+
+body { 
+    background-image : url(../img/pexels-pixabay-269140.jpg);
+    background-size : cover;
+}
+
+body{
+    color: white;
+}
+
+.photo-col img{
+    width: 49%;
+}
+
+footer{
+    text-align: center;    
+}
+
+footer img {
+    height: 50px;
+}
+
+footer h1{
+    color: white;
+}
