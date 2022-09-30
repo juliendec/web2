@@ -1,0 +1,7 @@
+table{
+    border-bottom-width: 0;
+}
+td{
+    border: none;
+    border: 1px solid black;
+}
